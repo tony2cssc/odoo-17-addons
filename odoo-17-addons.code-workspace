@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../odoo-17"
+		}
+	],
+	"settings": {
+		"python.envFile": "${workspaceFolder}/dev.env"
+	},
+}
